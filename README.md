@@ -18,7 +18,7 @@
 4. Вывести таблицу с менеджерами, которые продают с отрицательной прибылью и показать количество таких заказов.
 
 ### Preview
-[Ссылка:](https://drive.google.com/file/d/1FtgBINEHCcujWNhGL99isSdACJik5nzT/view)
+[Перейти по ссылке, чтобы скачать Pbix файл](https://drive.google.com/file/d/1FtgBINEHCcujWNhGL99isSdACJik5nzT/view)
 ![image](https://github.com/alexandra-arzhanukhina/Power_BI_project/assets/128599734/9dd963a5-1efb-4700-a756-b429d8742c70)
 
 
