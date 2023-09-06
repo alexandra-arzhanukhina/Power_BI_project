@@ -17,8 +17,11 @@
 3. Посчитать АВС номенклатуры;
 4. Вывести таблицу с менеджерами, которые продают с отрицательной прибылью и показать количество таких заказов.
 
-### Preview
 [Перейти по ссылке, чтобы скачать Pbix файл](https://drive.google.com/file/d/1FtgBINEHCcujWNhGL99isSdACJik5nzT/view)
+
+### Preview:
+![image](https://github.com/alexandra-arzhanukhina/Power_BI_project/assets/128599734/2507a6d2-8e56-49b3-99c3-01b335958065)
 ![image](https://github.com/alexandra-arzhanukhina/Power_BI_project/assets/128599734/9dd963a5-1efb-4700-a756-b429d8742c70)
+
 
 
